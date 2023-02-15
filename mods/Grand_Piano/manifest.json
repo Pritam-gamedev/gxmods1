@@ -20,19 +20,19 @@
             {
                 "TYPING_LETTER":
                 [
-                    "sounds/Grand_Piano_-_keyboard_effects-001.mp3",
-                    "sounds/Grand_Piano_-_keyboard_effects-002.mp3",
-                    "sounds/Grand_Piano_-_keyboard_effects-003.mp3",
-                    "sounds/Grand_Piano_-_keyboard_effects-004.mp3",
-                    "sounds/Grand_Piano_-_keyboard_effects-005.mp3"
+                    "sounds/1.mp3",
+                    "sounds/2.mp3",
+                    "sounds/.mp3",
+                    "sounds/4.mp3",
+                    "sounds/5.mp3"
                 ],
                 "TYPING_ENTER":
                 [
-                    "sounds/Grand_Piano_-_keyboard_effects-006.mp3"
+                    "sounds/6.mp3"
                 ],
                 "TYPING_SPACE":
                 [
-                    "sounds/Grand_Piano_-_keyboard_effects-007.mp3"
+                    "sounds/7.mp3"
                 ],
                 "TYPING_BACKSPACE":
                 [
